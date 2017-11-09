@@ -8,5 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-print("look at me now")
+plot(1:10)
+
+
+
+print("look at me ow")
+
 ```
