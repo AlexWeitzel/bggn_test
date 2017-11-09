@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 plot(1:10)
 
-
+print("I put this print line from github")
 
 print("look at me ow")
 
